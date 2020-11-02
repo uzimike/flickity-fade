@@ -4,7 +4,7 @@ _Fade between Flickity slides_
 
 ## Install
 
-Add `flickity-fade.css` to you stylesheets and `flickity-fade.js` to your scripts.
+Add `flickity-fade.css` to your stylesheets and `flickity-fade.js` to your scripts.
 
 ### Download
 
